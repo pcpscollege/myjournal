@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "187379845077",
+    "project_id": "myjournal-f9bac",
+    "storage_bucket": "myjournal-f9bac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187379845077:android:8cbef5992f806864709f5c",
+        "android_client_info": {
+          "package_name": "com.ajayasharma.myjournal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187379845077-9jh621tgmt9e3nnolttjh2qgii2lqt12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrp7dDQgBPdImkDj_Y5ypKOmBaclM7IYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187379845077-9jh621tgmt9e3nnolttjh2qgii2lqt12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
